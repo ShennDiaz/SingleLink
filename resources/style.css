@@ -2,10 +2,12 @@ html {
   height: 100%;
 }
 body {
+  height: 100%;
   margin: 0;
   padding: 0;
-  background-image: linear-gradient(to bottom, #321952, #67468b, #d48aa9);
+  background: linear-gradient(to bottom, #321952, #67468b, #d48aa9);
   font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+  background-size: cover;
 }
 h4 {
   font-weight: 400;
